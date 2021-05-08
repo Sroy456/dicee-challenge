@@ -1,0 +1,31 @@
+body{
+  background-color: #7FFFD4;
+  color:#8B008B;
+}
+footer{
+  text-align: center;
+  color: #FF6347;
+}
+img{
+  width: 80%;
+}
+p{
+  font-size: 1.5rem;
+}
+h2{
+  padding-top:  5%;
+}
+.heading-comment{
+    padding-bottom: 5%;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+    color: #8B008B;
+}
+.container{
+  text-align: center;
+  padding: 0% 10% 5% 10%;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
